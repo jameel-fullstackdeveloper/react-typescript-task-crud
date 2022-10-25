@@ -3,7 +3,7 @@
 ![Init Screen](/init_screen.png "Init")
 ![With Data](/with_data.png "With Data")
 
- It is a portfolio : Learning from freecodecamp https://www.freecodecamp.org/
+ It is a portfolio project : Learning from freecodecamp https://www.freecodecamp.org/
 
 # Getting Started with Create React App
 
