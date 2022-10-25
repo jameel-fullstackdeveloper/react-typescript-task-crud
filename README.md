@@ -1,3 +1,10 @@
+## Screens
+
+![Init Screen](/init_screen.png "Init")
+![With Data](/with_data.png "With Data")
+
+ It is a portfolio : Learning from freecodecamp https://www.freecodecamp.org/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,9 +52,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Screens
 
-![Init Screen](/init_screen.png "Init")
-![With Data](/with_data.png "With Data")
 
 
